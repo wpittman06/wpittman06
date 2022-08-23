@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Will
-- 👀 I’m interested in in coding and front end stuff primarily I am reading about security which is another sector i may look into. Outside of coding I like powerlifting, drawing, Comics and Anime.
-- 🌱 I’m currently learning HTML/SCSS/Javascript and then I think I may make my way to Vue.
-- 💞️ I’m looking to collaborate on any open source projects. I'm looking for tutelage and would like to work on other projects with devs with seniority to show me the ropes.
-- 📫 How to reach me You can reach me on here, or on twitter, Will_Pittman06 or email me at wpittma05@yahoo.com 
+#About me 
+Hi I'm Will, a frontend developer, designer and iillustrator. I am currently transitioning out of IT and decided frontend development was the way to go, as it combines my love for tech, design and problem solving. I have some prior experience with vanilla HTML and CSS but am learning to expand beyond that. I am currently going through the #100Devs program with Leon on Twitch where we will be learning HTML, CSS, JS, React, Node, Express, MongoDB.
+
+#Hobbies: Video games, drawing, powerlifting
+
+You can find my on my socials: [Linkedin](https://www.linkedin.com/in/william-pittman-a59a8981) | [Twitter](https://www.twitter.com/Will_Pittman06)
 
 <!---
 wpittman06/wpittman06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
