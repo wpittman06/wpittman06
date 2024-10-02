@@ -10,7 +10,7 @@ I have some prior experience with vanilla HTML and CSS but am learning to expand
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-You can find me on my socials: [Linkedin](https://www.linkedin.com/in/william-pittman-a59a8981) | [Twitter](https://www.twitter.com/Will_Pittman06)
+You can find me on my socials: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Linkedin](https://www.linkedin.com/in/william-pittman-a59a8981) | [Twitter](https://www.twitter.com/Will_Pittman06)
 
 <!---
 wpittman06/wpittman06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
