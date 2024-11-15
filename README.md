@@ -1,7 +1,7 @@
 # About me 
 Hi I'm Will, a frontend developer, designer and illustrator from the Greater Boston area with a little over 2 years of basic coding experience. 
 
-I am currently transitioning out of IT and decided frontend development was the way to go, as it combines my love for tech, design, and problem-solving. 
+I am currently transitioning out of IT and have been learning software development. 
 
 I have some prior experience with vanilla HTML and CSS but am learning to expand beyond that. I am currently going through the #100Devs program with Leon on Twitch where we will be learning HTML, CSS, JS, React, Node, Express, MongoDB.
 
